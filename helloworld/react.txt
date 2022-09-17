@@ -1,0 +1,13 @@
+node module folder has all third party package for the react app
+
+import React from 'react'
+this imports the React in the react package in the node module
+
+public folder:
+It has the index.html
+
+src(source)
+It has the entry point file index.js 
+
+The flow of the application is 
+localhost:3000->index.html->index.js(Entry point)->App.js->UI
